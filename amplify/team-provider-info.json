@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyf8dade0f2c694-staging-23305-authRole",
+      "UnauthRoleArn": "arn:aws:iam::287044248527:role/amplify-amplifyf8dade0f2c694-staging-23305-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::287044248527:role/amplify-amplifyf8dade0f2c694-staging-23305-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyf8dade0f2c694-staging-23305-deployment",
+      "UnauthRoleName": "amplify-amplifyf8dade0f2c694-staging-23305-unauthRole",
+      "StackName": "amplify-amplifyf8dade0f2c694-staging-23305",
+      "StackId": "arn:aws:cloudformation:us-east-1:287044248527:stack/amplify-amplifyf8dade0f2c694-staging-23305/f73c16d0-7806-11ec-a1aa-0eab3797cb39",
+      "AmplifyAppId": "d2hyd9oc0ihn4a"
+    },
+    "categories": {
+      "auth": {
+        "calendarapp2fe578a2": {}
+      }
+    }
+  }
+}
